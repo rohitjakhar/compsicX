@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ComposicX</string>
+    <string name="slash">/</string>
 </resources>
